@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Always learning.
+
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,py,php,js,html,css,c,vim,arduino" />
+</p>
