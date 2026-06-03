@@ -19,5 +19,5 @@ Always learning.
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,py,php,js,html,css,c,vim,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,py,php,js,html,css,react,c,vim,mysql,postgres,arduino,selenium" />
 </p>
