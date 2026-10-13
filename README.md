@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sabbakix 👋</h1>
+<h1 align="center">Sabbakix</h1>
 
 <p align="center">
   <a href="https://github.com/sabbakix">
@@ -17,11 +17,11 @@ I build practical tools for the people who keep machines running: **backup and s
 management over SSH**, and **small desktop apps** that make everyday IT work faster. I care about tools that are
 safe by default, run offline, and ship as a single binary or installer.
 
-- 🛠️ Currently building **[VegaSyncor](https://github.com/sabbakix/VegaSyncor)** and **[vegadesk](https://github.com/sabbakix/vegadesk)**
-- 🐧 Home turf: Linux servers, SMB/CIFS shares, systemd, Docker, and the network in between
-- 🌱 Always learning
+- Currently building **[VegaSyncor](https://github.com/sabbakix/VegaSyncor)** and **[vegadesk](https://github.com/sabbakix/vegadesk)**
+- Home turf: Linux servers, SMB/CIFS shares, systemd, Docker, and the network in between
+- Always learning
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ safe by default, run offline, and ship as a single binary or installer.
 
 </details>
 
-## 🧰 Toolbox
+## Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,py,ts,js,react,electron,linux,ubuntu,debian,bash,docker,kubernetes,git,github,githubactions&perline=8" alt="Go, Python, TypeScript, JavaScript, React, Electron, Linux, Ubuntu, Debian, Bash, Docker, Kubernetes, Git, GitHub, GitHub Actions" />
@@ -72,6 +72,6 @@ safe by default, run offline, and ship as a single binary or installer.
   <img src="https://skillicons.dev/icons?i=php,c,html,css,mysql,postgres,arduino,raspberrypi,selenium&perline=9" alt="PHP, C, HTML, CSS, MySQL, PostgreSQL, Arduino, Raspberry Pi, Selenium" />
 </p>
 
-## 📫 Get in touch
+## Get in touch
 
 The best place to find me is my blog at **[sabbakix.com](https://sabbakix.com)**, or open an issue on any of the projects above.
